@@ -5,7 +5,7 @@ ndirpaya/ndirpaya is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!-- 
 # 👋 Hi, I'm Angus Ndirpaya
 
 I'm a seasoned backend and blockchain engineer with over a decade of experience delivering scalable systems across fintech, Web3, and AI.
@@ -49,6 +49,7 @@ Currently CTO at [Spenda Africa](https://spenda.africa), where I lead the develo
 - **Security**: Encryption (AES, Fernet), JWT/OAuth2, KMS
 
 ---
+--->
 
 <!---
 ## 🚀 Featured Projects
