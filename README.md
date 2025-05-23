@@ -67,7 +67,7 @@ Currently CTO at [Spenda Africa](https://spenda.africa), where I lead the develo
   Modular agent architecture with task memory, retrieval, and API tools — tailored for Web3 and fintech scenarios.
 
 ---
---->
+
 
 ## 🧠 Open to:
 - Technical leadership roles in Web3, DeFi, or AI x Finance
@@ -78,3 +78,4 @@ Currently CTO at [Spenda Africa](https://spenda.africa), where I lead the develo
 
 ### 📬 Reach Out
 Connect on [LinkedIn](https://www.linkedin.com/in/angus-ndirpaya-jr/)
+--->
